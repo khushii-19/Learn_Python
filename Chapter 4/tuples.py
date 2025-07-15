@@ -17,4 +17,4 @@ print("a.count(1):", count_1)  # Output: 1
 
 # 5. index() - Finds the index of the first occurrence of 1
 index_1 = a.index(1)
-print("a.index(1):", index_1)  # Output: 0
+print("a.index(1):", index_1)  # Output: 1

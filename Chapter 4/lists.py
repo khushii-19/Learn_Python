@@ -27,7 +27,7 @@ print("After insert(3, 8):", l1)  # [21, 15, 8, 8, 7, 2, 1, 8]
 # 5. pop(2) - Removes and returns the element at index 2
 removed_item = l1.pop(2)
 print("After pop(2):", l1)
-print("Popped item:", removed_item)  # Should print 8
+print("Popped item:", removed_item)  # Should print 7
 
 # 6. remove(21) - Removes the first occurrence of 21
 l1.remove(21)
