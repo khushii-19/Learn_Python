@@ -1,7 +1,7 @@
 #  7. FACTORIAL USING RECURSION
 def factorial(n):
     # Base condition
-    if n == 0 or n == 1:
+    if n == 0 or n == 1:   #base condition is important in recursion to stop when condition mets otherwise sometimes functions run recursively infinite
         return 1
     # Recursive case
     else:
