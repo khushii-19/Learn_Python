@@ -1,0 +1,2 @@
+Writing with w+ mode
+New line with a+ mode
