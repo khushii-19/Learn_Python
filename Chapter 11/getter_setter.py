@@ -17,7 +17,7 @@ class Employee:
 e = Employee()
 e.a = 45
 
-e.name = "Khushi Gupta"   #(name can be used as a variable not a method)
+e.name = "Khushi Gupta"   #(name can be used as a variable not a method) #getter name return krke dera h setter ko
 print(e.fname, e.lname)
 e.fname = "Atharv"
 print(e.fname,e.lname)
